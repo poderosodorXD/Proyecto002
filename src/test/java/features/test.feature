@@ -5,8 +5,3 @@ Feature: Categoria Comics
     Given El usuario se encuentra en la pagina home de imalittletester
     When Hace click sobre el link de Latest Comics
     Then Se debe redirigir a la pantalla Comics
-
-  Scenario: Ingresar a la categoria Comics desde la pantalla Home
-    Given El usuario se encuentra en la pagina home de imalittletester
-    When Hace click sobre el link de Latest Comics
-    Then Se debe redirigir a la pantalla Comics
